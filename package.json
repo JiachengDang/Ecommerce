@@ -1,8 +1,8 @@
 {
+  "homepage": "http://lempickax.github.io/Ecommerce/",
   "name": "fifthfloor",
   "version": "0.1.0",
   "private": true,
-  "homepage": "http://Lempickax.github.io/Ecommerce",
   "dependencies": {
     "@chec/commerce.js": "^2.8.0",
     "@material-ui/core": "^4.12.3",
